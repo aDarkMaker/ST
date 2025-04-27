@@ -1,0 +1,43 @@
+2025-04-27 22:26:47 - zhihuishu - INFO - 智慧树自动答题程序启动
+2025-04-27 22:26:47 - zhihuishu - INFO - 开始登录智慧树...
+2025-04-27 22:26:48 - zhihuishu - INFO - 使用账号 15623169098 登录
+2025-04-27 22:26:48 - zhihuishu - DEBUG - 正在请求: https://passport.zhihuishu.com/user/validateCodeConfig
+2025-04-27 22:26:48 - zhihuishu - DEBUG - 请求方法: GET
+2025-04-27 22:26:48 - zhihuishu - DEBUG - 请求参数: {'headers': {'Accept': 'application/json, text/plain, */*', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'passport.zhihuishu.com', 'Origin': 'https://passport.zhihuishu.com', 'Referer': 'https://passport.zhihuishu.com/login'}}
+2025-04-27 22:26:48 - zhihuishu - DEBUG - 响应状态码: 200
+2025-04-27 22:26:48 - zhihuishu - DEBUG - 响应内容: 
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta name="description" content="智慧树是全球知名的学分课程服务平台，在线教育平台拥有海量大学高品质课程，网络教育在线完美支持跨校授课，学分认证，名师名课名校，在线互动教育学堂，体验VIP级课程学习，让你成为学堂中的MVP。">
+    <title>智慧树在线教育_全球大型的学分课程运营服务平台</title>
+    <script src="/assets/js/wxLogin.js"></script>
+    <!-- new_code -->
+    <script src="https://gw.alipayobjects.com/os/lib
+2025-04-27 22:26:48 - zhihuishu - ERROR - 获取验证码参数失败
+2025-04-27 22:26:48 - zhihuishu - ERROR - 登录失败，程序退出
+2025-04-27 22:33:46 - zhihuishu - INFO - 智慧树自动答题程序启动
+2025-04-27 22:33:46 - zhihuishu - INFO - 开始登录智慧树...
+2025-04-27 22:33:47 - zhihuishu - INFO - 使用账号 15623169098 登录
+2025-04-27 22:33:47 - zhihuishu - DEBUG - 正在请求: https://passport.zhihuishu.com/user/validateAccountAndPassword
+2025-04-27 22:33:47 - zhihuishu - DEBUG - 请求方法: POST
+2025-04-27 22:33:47 - zhihuishu - DEBUG - 请求参数: {'headers': {'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Host': 'passport.zhihuishu.com', 'Origin': 'https://passport.zhihuishu.com', 'Referer': 'https://passport.zhihuishu.com/login', 'X-Requested-With': 'XMLHttpRequest'}, 'data': {'userName': '15623169098', 'password': '5ba002ea5ff37431fb7e44f088bca3c5', 'areaCode': '86', 'clientType': '1'}}
+2025-04-27 22:33:47 - zhihuishu - DEBUG - 响应状态码: 200
+2025-04-27 22:33:47 - zhihuishu - DEBUG - 响应内容: {"status":-1}
+2025-04-27 22:33:47 - zhihuishu - ERROR - 登录失败: 未知错误
+2025-04-27 22:33:47 - zhihuishu - ERROR - 登录失败，程序退出
+2025-04-27 23:03:54 - zhihuishu - INFO - 智慧树自动答题程序启动
+2025-04-27 23:03:54 - zhihuishu - INFO - 开始登录智慧树...
+2025-04-27 23:03:54 - zhihuishu - INFO - 使用账号 15623169098 登录
+2025-04-27 23:03:55 - zhihuishu - DEBUG - 登录响应状态码: 200
+2025-04-27 23:03:55 - zhihuishu - DEBUG - 登录响应内容: {"status":-1}...
+2025-04-27 23:03:55 - zhihuishu - ERROR - 登录失败: 未知错误
+2025-04-27 23:03:55 - zhihuishu - ERROR - 登录失败，程序退出
